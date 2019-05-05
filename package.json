@@ -1,0 +1,32 @@
+{
+  "name": "bookstorenative",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "react": "16.8.3",
+    "react-native": "0.59.5",
+    "react-native-circular-action-menu": "^0.5.0",
+    "react-native-fontawesome": "^6.0.1",
+    "react-native-material-dropdown": "^0.11.1",
+    "react-native-modal-dropdown": "^0.6.2",
+    "react-native-super-grid": "^3.0.4",
+    "react-native-vector-icons": "^6.4.2",
+    "react-router-native": "^5.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.3",
+    "@babel/runtime": "^7.4.3",
+    "babel-jest": "^24.7.1",
+    "jest": "^24.7.1",
+    "metro-react-native-babel-preset": "^0.53.1",
+    "react-test-renderer": "16.8.3"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
