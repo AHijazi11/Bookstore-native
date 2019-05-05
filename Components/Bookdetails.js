@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from "react";
 import {
-  StyleSheet,
   Text,
   SafeAreaView,
   View,
@@ -9,7 +8,6 @@ import {
   Picker
 } from "react-native";
 import axios from "axios";
-import ActionButton from "react-native-circular-action-menu";
 
 function Bookdetails(props) {
   const bookid = props.history.location.pathname.slice(13);
@@ -112,42 +110,6 @@ function Bookdetails(props) {
             </View>
           )}
           {bookinfo.description && <Text>{bookinfo.description}</Text>}
-          {/* <View style={styles.bottom}>
-            <ActionButton
-              buttonColor="rgba(231,76,60,1)"
-              position="right"
-              radius={200}
-            >
-              <ActionButton.Item
-                buttonColor="#ffc107"
-                title="New Task"
-                onPress={() => console.log("notes tapped!")}
-              >
-                <Text style={styles.actionButtonIcon}>Delete</Text>
-              </ActionButton.Item>
-              <ActionButton.Item
-                buttonColor="#ffc107"
-                title="Notifications"
-                onPress={() => console.log("notes1 tapped!")}
-              >
-                <Text>Read</Text>
-              </ActionButton.Item>
-              <ActionButton.Item
-                buttonColor="#ffc107"
-                title="All Tasks"
-                onPress={() => console.log("notes2 tapped!")}
-              >
-                <Text>Currently Reading</Text>
-              </ActionButton.Item>
-              <ActionButton.Item
-                buttonColor="#ffc107"
-                title="All Tasks22"
-                onPress={() => console.log("notes2 tapped!")}
-              >
-                <Text>Want to Read</Text>
-              </ActionButton.Item>
-            </ActionButton>
-          </View> */}
         </ScrollView>
       )}
     </SafeAreaView>

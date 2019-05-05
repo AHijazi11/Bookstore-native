@@ -1,10 +1,8 @@
 import React, { useState, useEffect } from "react";
 import {
-  StyleSheet,
   Text,
   SafeAreaView,
   TextInput,
-  Button,
   View,
   ScrollView,
   ImageBackground,
@@ -18,29 +16,6 @@ function Booksearch(props) {
   const [searchcomplete, setSearchcomplete] = useState(false);
   const [isLoading, setisLoading] = useState(false);
   const [hasError, sethasError] = useState(false);
-
-  const searchhistory = props.history.location.pathname.slice(12);
-  let renderresults = false;
-
-  const Search = e => {
-    setSearchfield(e.target.value);
-    props.history.push(`/Booksearch/${e.target.value}`);
-  };
-
-  const books = [
-    {
-      id: "AFgZAAAAYAAJ",
-      title: "The Adventures of Huckleberry Finn (Tom Sawyer's Comrade) ...",
-      authors: "Mark Stark",
-      publishedDate: "1918"
-    },
-    {
-      id: "AFgZAAAAYAAJ",
-      title: "Testing",
-      authors: "Farty Marty",
-      publishedDate: "1998"
-    }
-  ];
 
   useEffect(() => {
     if (searchfield) {
@@ -105,28 +80,5 @@ function Booksearch(props) {
     </SafeAreaView>
   );
 }
-
-const styles = {
-  gridView: {
-    marginTop: 30,
-    flex: 1
-  },
-  itemContainer: {
-    justifyContent: "flex-end",
-    borderRadius: 5,
-    padding: 10,
-    height: 150
-  },
-  itemName: {
-    fontSize: 16,
-    color: "#fff",
-    fontWeight: "600"
-  },
-  itemCode: {
-    fontWeight: "600",
-    fontSize: 12,
-    color: "#fff"
-  }
-};
 
 export default Booksearch;
