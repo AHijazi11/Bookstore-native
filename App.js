@@ -13,8 +13,8 @@ function App() {
       <NativeRouter>
         <NavBar />
         <Switch>
-          <Route exact path="/" component={Bookshelf} />
-          <Route exact path="/Booksearch" component={Booksearch} />
+          <Route exact path="/" component={Booksearch} />
+          <Route exact path="/Bookshelf" component={Bookshelf} />
           <Route path="/Bookdetails" component={Bookdetails} />
         </Switch>
       </NativeRouter>

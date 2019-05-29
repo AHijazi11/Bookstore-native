@@ -1,0 +1,269 @@
+{
+  "wantToRead": [
+    {
+      "id": "ka2VUBqHiWkC",
+      "title": "Effective Java",
+      "authors": ["Joshua Bloch"],
+      "publisher": "Addison-Wesley Professional",
+      "publishedDate": "2008-05-08",
+      "description": "Are you looking for a deeper understanding of the Java™ programming language so that you can write code that is clearer, more correct, more robust, and more reusable? Look no further! Effective Java™, Second Edition, brings together seventy-eight indispensable programmer’s rules of thumb: working, best-practice solutions for the programming challenges you encounter every day. This highly anticipated new edition of the classic, Jolt Award-winning work has been thoroughly updated to cover Java SE 5 and Java SE 6 features introduced since the first edition. Bloch explores new design patterns and language idioms, showing you how to make the most of features ranging from generics to enums, annotations to autoboxing. Each chapter in the book consists of several “items” presented in the form of a short, standalone essay that provides specific advice, insight into Java platform subtleties, and outstanding code examples. The comprehensive descriptions and explanations for each item illuminate what to do, what not to do, and why. Highlights include: New coverage of generics, enums, annotations, autoboxing, the for-each loop, varargs, concurrency utilities, and much more Updated techniques and best practices on classic topics, including objects, classes, libraries, methods, and serialization How to avoid the traps and pitfalls of commonly misunderstood subtleties of the language Focus on the language and its most fundamental libraries: java.lang, java.util, and, to a lesser extent, java.util.concurrent and java.io Simply put, Effective Java™, Second Edition, presents the most practical, authoritative guidelines available for writing efficient, well-designed programs.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_10",
+          "identifier": "0132778041"
+        },
+        {
+          "type": "ISBN_13",
+          "identifier": "9780132778046"
+        }
+      ],
+      "readingModes": {
+        "text": true,
+        "image": true
+      },
+      "pageCount": 368,
+      "printedPageCount": 375,
+      "printType": "BOOK",
+      "categories": ["Computers / Programming Languages / Java"],
+      "averageRating": 4.5,
+      "ratingsCount": 30,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": true,
+      "contentVersion": "0.3.5.0.preview.3",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=ka2VUBqHiWkC&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE7140S7DUbWB5ZCcatdbaGmUmhBZ4_OQHV64AoIqHWkWgb8ZJTiTQ4C7NYT4GLNU8wBe4-YgbyadOAhEhaePNfZHtB2wY0QLTIGw8OA85dK7wfj2VcbV1mPm_HoLWZ7HyMsmu1H9&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=ka2VUBqHiWkC&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE71OgDj4A1ubbKrZLK1IHhwHLjtEChTNHOjs5kku_e0pmuJYyLVa5Kdfhb6FkPXRd8QutwEej2Vv2tqUKc62R50_xAFoQAi5caxSca8gVCvev_i5M9-ntRNNiWlYGo9aXu8vCLJF&source=gbs_api",
+        "small": "http://books.google.com/books/content?id=ka2VUBqHiWkC&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE73daV9gJ2AGyr3BCpC9iw-TroDhi7bjAqKO2YSFmwEyCdo1k5UXsJu-6w9O9FkfVkkQ-Ieawx8jQVvXJZwOCrwwZPjrt977XAQJTYizcoNq0c5LZTJjWOhzHpLVLaXeQPZFg--N&source=gbs_api",
+        "medium": "http://books.google.com/books/content?id=ka2VUBqHiWkC&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE7120VJpEGlqInxuc1kU3-H4963tiWn1WZAtu1N0-bRTfdgPep8Pfex-eCm6mGseNRic0G5mnFoW-WCnmgM_rvAPk05xwYl0SkHcTP7Afqoit5EVxWmbE2oKpCTD96Ad0zg5FEvx&source=gbs_api",
+        "large": "http://books.google.com/books/content?id=ka2VUBqHiWkC&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE70MgGWem2COb7q3e50P087eS_oza9wST3WNdfnxzLTIiK9OVtPrPZyLO7-8RZsSd9gDg6paDU7Jfb9f2CF4aPGNLOUWJLbLqkns8LAIX711e8JfBQC5yoAt8D5290xv5oSLldMu&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=ka2VUBqHiWkC&hl=&source=gbs_api",
+      "infoLink": "https://play.google.com/store/books/details?id=ka2VUBqHiWkC&source=gbs_api",
+      "canonicalVolumeLink": "https://market.android.com/details?id=book-ka2VUBqHiWkC",
+      "shelf": "wantToRead"
+    },
+    {
+      "id": "hXNvadj27ekC",
+      "title": "A Game of Thrones",
+      "authors": ["George R. R. Martin"],
+      "publisher": "Bantam Books",
+      "publishedDate": "2011",
+      "description": "A NEW ORIGINAL SERIES, NOW ON HBO. Here is the first volume in George R. R. Martin's magnificent cycle of novels that includes A Clash of Kings and A Storm of Swords. As a whole, this series comprises a genuine masterpiece of modern fantasy, bringing together the best the genre has to offer. Magic, mystery, intrigue, romance, and adventure fill these pages and transport us to a world unlike any we have ever experienced. Already hailed as a classic, George R. R. Martin's stunning series is destined to stand as one of the great achievements of imaginative fiction. A GAME OF THRONES Long ago, in a time forgotten, a preternatural event threw the seasons out of balance. In a land where summers can last decades and winters a lifetime, trouble is brewing. The cold is returning, and in the frozen wastes to the north of Winterfell, sinister and supernatural forces are massing beyond the kingdom's protective Wall. At the center of the conflict lie the Starks of Winterfell, a family as harsh and unyielding as the land they were born to. Sweeping from a land of brutal cold to a distant summertime kingdom of epicurean plenty, here is a tale of lords and ladies, soldiers and sorcerers, assassins and bastards, who come together in a time of grim omens. Here an enigmatic band of warriors bear swords of no human metal; a tribe of fierce wildlings carry men off into madness; a cruel young dragon prince barters his sister to win back his throne; and a determined woman undertakes the most treacherous of journeys. Amid plots and counterplots, tragedy and betrayal, victory and terror, the fate of the Starks, their allies, and their enemies hangs perilously in the balance, as each endeavors to win that deadliest of conflicts: the game of thrones. From the Paperback edition.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_10",
+          "identifier": "0553386794"
+        },
+        {
+          "type": "ISBN_13",
+          "identifier": "9780553386790"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": false
+      },
+      "pageCount": 694,
+      "printedPageCount": 722,
+      "dimensions": {
+        "height": "24.00 cm",
+        "width": "15.50 cm",
+        "thickness": "3.30 cm"
+      },
+      "printType": "BOOK",
+      "categories": [
+        "Fiction / Action & Adventure",
+        "Fiction / Fantasy / Epic",
+        "Fiction / Media Tie-In"
+      ],
+      "averageRating": 4,
+      "ratingsCount": 2575,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.5.0.0.preview.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=hXNvadj27ekC&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE72qdgFlXXJe1L3aRmE2wg6eryyJXXIttoRb1X34LRks6j2v2sO-t7wcNTPL5HfO5KLmgV3GbHqZJc-gAoxQ3UICD_y0CvDAKUlL8hnswgqM1MNEoQg71fSxg1BrlLsr1Pq1NcRC&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=hXNvadj27ekC&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE72FoWGK4UuxxbHnIJmojnDyVxO8wF07Nxnaqloq__FdNB7SMs5zTLR68ppsYB_Ny7pT4tR_3EFe93SkMZ3n_ev8wNth7zZKo6Gmq8DpEMvwlF-28fjRUjJ2U6UXsK1hlwZhZ0oz&source=gbs_api",
+        "small": "http://books.google.com/books/content?id=hXNvadj27ekC&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE73VChDs_cKVpjjzASDIYIGXTpx5JhWDnivJR9P8hJKIbQWtmS6Rr-pgv0G54bGKxj4rEdbX6MkMMpl4ifZnaUDnX7rJa3BkGq2uSKTHewbUopbqwBQzNTi8hHv8N0GgqokXtQiR&source=gbs_api",
+        "medium": "http://books.google.com/books/content?id=hXNvadj27ekC&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE70DB224Yw9SewhROkybfpfi2l8bVWIt_ztLm05CHEhO5WaEKrpssf9UXLPkHMnppaA1D3WA77yWxLaNMRbIn_BglmBg5ybqNTpjpMlftisZI1ADBBWAulOojPjuSUWwLGZAAOhf&source=gbs_api",
+        "large": "http://books.google.com/books/content?id=hXNvadj27ekC&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE72YBhb0MbOYotaGMrFqHV8yv4asOIi10l-K0g5R1_0W8KGQYC-7LUxJJkrGpoNKP25i6JzVIVH0mqE8lbTMtGrHsMCGZJKENQWupKDG40tDm_EB1HRD6GRXMaq2FpsEqKmr9hsw&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=hXNvadj27ekC&hl=&source=gbs_api",
+      "infoLink": "https://play.google.com/store/books/details?id=hXNvadj27ekC&source=gbs_api",
+      "canonicalVolumeLink": "https://market.android.com/details?id=book-hXNvadj27ekC",
+      "shelf": "wantToRead"
+    }
+  ],
+  "currentlyReading": [
+    {
+      "id": "vILEsSKWL8oC",
+      "title": "Mastering SQL Server 2008",
+      "authors": ["Michael Lee", "Gentry Bieker"],
+      "publisher": "John Wiley & Sons",
+      "publishedDate": "2009-01-16",
+      "description": "As Microsoft’s bestselling database manager, SQL Server is highly flexible and customizable, and has excellent support—the 2008 version offers several significant new capabilities. This book offers accurate and expert coverage on the updates to SQL Server 2008 such as its enhanced security; the ability to encrypt an entire database, data files, and log files without the need for application changes; a scalable infrastructure that can manage reports and analysis of any size and complexity; and its extensive performance data collection.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_10",
+          "identifier": "0470467398"
+        },
+        {
+          "type": "ISBN_13",
+          "identifier": "9780470467398"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": true
+      },
+      "pageCount": 792,
+      "printedPageCount": 796,
+      "printType": "BOOK",
+      "categories": [
+        "Computers / Databases / Data Warehousing",
+        "Computers / Information Technology"
+      ],
+      "averageRating": 4.5,
+      "ratingsCount": 3,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "2.2.1.0.preview.1",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=vILEsSKWL8oC&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE734J0xr5KsQZ3QNGkepJYKFY-6bcFhYAPSEawD678kBZk_DyvCDelJoFCfuisNtdETkRqJ-DHwpilxcmKzTDHOXVR--kOgLQDTiQmNLbadxUIlgxrLHBuQ5C-7ZySWger-DjAjR&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=vILEsSKWL8oC&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE70AIXGWaLH0Ol0FQoZjbH64SYnT4Z7WH-EBBR9PSIOPQbQ7jfAOIL6xFDAt3mZibnanY9L_t4jvdP0n8ZhRQO3QG4wHby4lubiKBJkOphMFszMnADjarzkCwDzmLJJ3zDfx4cpD&source=gbs_api",
+        "small": "http://books.google.com/books/content?id=vILEsSKWL8oC&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE71uPqoqcru1C8TilaYZ5FA5sgezuvCZJTxovjk38-9fuAXe1mWKzAMN5WHPiTl4hr-AZHGCZ0r0PN8a5eFTnnljUlb9xWmW457Skt354SETBva-sg7T9ME4KMMPLK5b-SHtUix9&source=gbs_api",
+        "medium": "http://books.google.com/books/content?id=vILEsSKWL8oC&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE72ufjNF0E8e62ow5HncWJ4RhSRNMSlsVgCmRZEgTSRqXJ-yNn7DDRsGAKx3C3i9XPDyH7EjPwlUieMBLG1sMIXj0QXfwsRgbNgXi9U0FcaGpimM8ZJ5i23QHuDA4xyzHBdcuNfs&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=vILEsSKWL8oC&hl=&source=gbs_api",
+      "infoLink": "https://play.google.com/store/books/details?id=vILEsSKWL8oC&source=gbs_api",
+      "canonicalVolumeLink": "https://market.android.com/details?id=book-vILEsSKWL8oC",
+      "shelf": "currentlyReading"
+    },
+    {
+      "id": "ytBQAAAAYAAJ",
+      "title": "Oracle SQL",
+      "authors": ["Bijoy Bordoloi", "Douglas Brian Bock"],
+      "publisher": "Prentice Hall",
+      "publishedDate": "2003",
+      "description": "Focusing on standard ANSI SQL with a learn-by-doing approach, this book organizes SQL subtopics into short chapters. Readers first learn the features of a SQL command, then its usage, based on management questions that typically arise in the management decision-making process. Provides additional examples of the supplemental commands provided in the Oracle implementation of SQL. Ensures that all of the SQL concepts and commands covered (except in SQL *Plus and PL/SQL) are equally applicable to database management system software that follows the ANSI SQL standard—including DB2, SQL Server, and SYBASE. Integrates numerous exercises and examples throughout. Offers detailed coverage of SQL, including SQL *Plus and Oracle Database Administration. Covers Data Definition Language with SQL. A valuable reference for SQL programmers, systems analysts, database programmers, and database administrators.",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_10",
+          "identifier": "0131011383"
+        },
+        {
+          "type": "ISBN_13",
+          "identifier": "9780131011380"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": false
+      },
+      "pageCount": 349,
+      "printedPageCount": 376,
+      "dimensions": {
+        "height": "26.00 cm",
+        "width": "20.30 cm",
+        "thickness": "1.40 cm"
+      },
+      "printType": "BOOK",
+      "categories": [
+        "Computers / Databases / General",
+        "Computers / Programming Languages / SQL"
+      ],
+      "averageRating": 5,
+      "ratingsCount": 1,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "preview-1.0.0",
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=ytBQAAAAYAAJ&printsec=frontcover&img=1&zoom=5&imgtk=AFLRE716FmJnd_cueVXef_s0gV0LLwILL7Of6hRSSRClks5pjjmaxw7hU47SX4Q7M9iUpMhe-Es3sRYlUVXEl2SbS1zhqMULzE0v8BI_3fp9XtXnB4JOd6j8rNTv445Kbah36nO4UtGS&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=ytBQAAAAYAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71dn6-4bSAPAWN26djysfKmRiYwBgxf8DNYJmBUlko39_Ol-L6Xn-ZPbHDQF6bUE1GsawhcNL9KlQA6ly9LMeCp0EvewOrtVuirEO5pk0rE0gTIjrDXc_UwptlbkmYIYJHjBwNU&source=gbs_api",
+        "small": "http://books.google.com/books/content?id=ytBQAAAAYAAJ&printsec=frontcover&img=1&zoom=2&imgtk=AFLRE73EBPZEqVHSV-rNuzwddxf1NKMwqZ-yVFhr7Qfc-J_ZRqZVxdlhDWUB7rBH3AQtJd4i_Gdk3NcDE5AttcAttreocz6bZZi_fa7EzV_AkFAAxQyRjo7xLa6L__yldMdQe3Hi-qKc&source=gbs_api",
+        "medium": "http://books.google.com/books/content?id=ytBQAAAAYAAJ&printsec=frontcover&img=1&zoom=3&imgtk=AFLRE731LEOLFiuYHla7ZKwUbNcAvS4htQPe_YKx1y9hdXyUyoR85AYjmlq-Gn32-SzwlLMr6uF1voiDNdiKLdX-yWZzon0q5KFvw-ZHiBILK1NbtWgXjyrTUnR9YQJZPaS3UKR24umQ&source=gbs_api",
+        "large": "http://books.google.com/books/content?id=ytBQAAAAYAAJ&printsec=frontcover&img=1&zoom=4&imgtk=AFLRE702qPLVeC00sLI7cMP6Xle96yYtyCrpmpwjfb19r4y-zYw0hPquRJQaFI9tUR6Qmdf_17DilE8xdvwsmx3mHrlLFPU5E3pamlJFfcNl9Dj-CIcmKNuwqa6pbRGOgcH3dcCLXt66&source=gbs_api",
+        "extraLarge": "http://books.google.com/books/content?id=ytBQAAAAYAAJ&printsec=frontcover&img=1&zoom=6&imgtk=AFLRE70As_TvD2nyIgE_Lw3yskWm1uFDjvkV7Fej8xJA8Gu7gzYf1pcEaJrWwmHi1Jy29m742dxq1D11jqAmmsOOvoWeMl8pxcIVTW3MkuzycMi34lbEG_mefJXMeldId84pBN1ATdpj&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=ytBQAAAAYAAJ&hl=&source=gbs_api",
+      "infoLink": "https://play.google.com/store/books/details?id=ytBQAAAAYAAJ&source=gbs_api",
+      "canonicalVolumeLink": "https://market.android.com/details?id=book-ytBQAAAAYAAJ",
+      "shelf": "currentlyReading"
+    }
+  ],
+  "read": [
+    {
+      "id": "WQYfA3qf7dUC",
+      "title": "Autobiography of Mark Twain",
+      "subtitle": "Reader's Edition",
+      "authors": ["Mark Twain"],
+      "publisher": "University of California Press",
+      "publishedDate": "2012",
+      "description": "\"Mark Twain dictated much of this book--now it is a book at last--from a big rumpled bed. Reading it is a bit like climbing in there with him.\"--Roy Blount, Jr. \"To say that the editors have done an extremely good job is a little like saying the ceiling of the Sistine Chapel does a good job of keeping the rain off the Pope's head. It is true but it doesn't give even a whiff of the grandeur of the thing.\"--Robert D. Richardson, author of Emerson: The Mind on Fire \"Mark Twain, always so blithely ahead of his time, has just outdone himself: he's brought us an Autobiography from beyond the grave: a hundred-year-old relic that yet manages to accomplish something new. It anticipates the Cubism just taking form in Samuel Clemens's last years, by exploding the confines of orderliness, sequence, the dutiful march of this-then-that. In so doing, it gives us not simply Mark Twain's life--that is the prosaic work of biographers--but the ways in which he thought of his life: in all the fragmented recollection, distraction, creation, revision and dreaming that make up the true, divinely jumbled devices we all use to recapture experience and feeling. If this prodigious and prodigal pastiche were a machine, it would be the Paige typesetter--except that it works.\"--Ron Powers, author of Mark Twain: A Life",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_10",
+          "identifier": "0520272250"
+        },
+        {
+          "type": "ISBN_13",
+          "identifier": "9780520272255"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": true
+      },
+      "pageCount": 414,
+      "printedPageCount": 454,
+      "dimensions": {
+        "height": "23.00 cm",
+        "width": "15.20 cm",
+        "thickness": "3.20 cm"
+      },
+      "printType": "BOOK",
+      "categories": [
+        "Biography & Autobiography / Literary Figures",
+        "Biography & Autobiography / Personal Memoirs"
+      ],
+      "averageRating": 5,
+      "ratingsCount": 1,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "1.2.1.0.preview.1",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=WQYfA3qf7dUC&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE72mGcmyWZqTgOUi0BhvbOCbLFaqkS2CmLoaN9K5-_lptuRPEOMeaU5085SZVCojHDWRlxpx0ytNoyVq8TXMMd1UFzpJnODEDBEc2XOHsjvHeqsMr0pjKDhM0YPJJ7pY_XzK013w&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=WQYfA3qf7dUC&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE71pslK4DAJ1uig0XwYY5KQI5rIgxDdzEQlo1a_ClowUIE46AC0q3zzVLyCsdESIkdlj7mPYvBXGg0uaeSMS8SJ1nKAs-jiExeQu37iwtvbTLVWd4WTIDVXjbfpPyO1WlL4rJuK_&source=gbs_api",
+        "small": "http://books.google.com/books/content?id=WQYfA3qf7dUC&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE71Sgy94YANUOGic0wz3LvHXbRchariYVPV2uWRxQ1FP1Qt-3AsimkEoQVDVf6CXaVCapm-lH2e3TRqd6_rcdypf-OcjcQZpIvMNXwfr_I44dM1QcUHMdNjgCvpayGVQYqi9nhGQ&source=gbs_api",
+        "medium": "http://books.google.com/books/content?id=WQYfA3qf7dUC&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE70vXv5QA2B7wEdfX5QgTup43iLmoiwf0F2bCAtL9jEzwRqT2OGHaTIHk0VcI3ck5kr3RmQB1-Slt8bR0zMMe5HSx9xqk3pBt9D7bgC1VcyaEJVFAHkQeWNE2F9aaomPyYsOkLn7&source=gbs_api",
+        "large": "http://books.google.com/books/content?id=WQYfA3qf7dUC&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE70wCwL9tE_VR4p9JAzm_KVKjGNbL4T_1vkWbijfAKqiTf9iCxVhL1d15uaBhT8PgKvQnx7s0WM7z7TP0F3sO6UnSztgbAxNSdJbYhTQvFDs1PycKXBRbnrPc8BtuRgcu9HyXggn&source=gbs_api",
+        "extraLarge": "http://books.google.com/books/content?id=WQYfA3qf7dUC&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE71L4XvIOjMO27MKwtsgQIYWVeH6ZRIUk-DmyzqR4hS1DxYbuhhJ7H41nSSU1mf0Zg-y94RUDODpQAwZvZyMOS-9hXqIIMWWdnK6-UHk1BeVnx-YYjupByf_D7ZWX9dvDeQS-1I5&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=WQYfA3qf7dUC&hl=&source=gbs_api",
+      "infoLink": "https://play.google.com/store/books/details?id=WQYfA3qf7dUC&source=gbs_api",
+      "canonicalVolumeLink": "https://market.android.com/details?id=book-WQYfA3qf7dUC",
+      "shelf": "read"
+    }
+  ]
+}
