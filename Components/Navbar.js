@@ -6,10 +6,10 @@ function NavBar() {
   return (
     <View style={styles.container}>
       <Link to="/" style={styles.link}>
-        <Text style={styles.text}>Bookshelf</Text>
-      </Link>
-      <Link to="/Booksearch" style={styles.link}>
         <Text style={styles.text}>Search</Text>
+      </Link>
+      <Link to="/Bookshelf" style={styles.link}>
+        <Text style={styles.text}>Bookshelf</Text>
       </Link>
     </View>
   );
