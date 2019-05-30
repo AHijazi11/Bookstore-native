@@ -56,7 +56,7 @@ function Booksearch(props) {
           searchresults.length > 0 &&
           searchresults.map((book, idx) => {
             return (
-              <View key={idx}>
+              <View style={styles.bookSpacing} key={idx}>
                 <TouchableOpacity
                   onPress={() => props.history.push(`/Bookdetails/${book.id}`)}
                 >
@@ -80,5 +80,13 @@ function Booksearch(props) {
     </SafeAreaView>
   );
 }
+
+const styles = {
+  bookSpacing: {
+    marginTop: 10,
+    marginBottom: 10,
+    padding: 5
+  }
+};
 
 export default Booksearch;

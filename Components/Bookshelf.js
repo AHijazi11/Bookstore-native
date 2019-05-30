@@ -54,7 +54,7 @@ function Bookshelf(props) {
       {hasError && <Text>Error Retrieving Data from Server!</Text>}
       {isLoading && <Text>Bookshelf Loading</Text>}
       {Object.keys(bookshelf).length > 0 && (
-        <ScrollView>
+        <ScrollView style={styles.Padding}>
           <Text style={styles.shelfText}>Want to Read</Text>
           {Object.keys(bookshelf).length > 0 &&
             bookshelf.wantToRead.map((book, idx) => {
@@ -194,6 +194,9 @@ function Bookshelf(props) {
 }
 
 const styles = {
+  Padding: {
+    padding: 5
+  },
   titleText: {
     fontSize: 20,
     fontWeight: "bold"
@@ -207,8 +210,8 @@ const styles = {
     flexDirection: "row"
   },
   bookMargin: {
-    marginTop: 5,
-    marginBottom: 5
+    marginTop: 20,
+    marginBottom: 20
   },
   picker: {
     height: 50,

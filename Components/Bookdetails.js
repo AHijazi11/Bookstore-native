@@ -53,7 +53,7 @@ function Bookdetails(props) {
       {hasError === true && <Text>Error Retrieving Data from Server!</Text>}
       {isLoading === true && <Text>Loading...</Text>}
       {Object.keys(bookinfo).length > 0 && (
-        <ScrollView>
+        <ScrollView style={styles.Padding}>
           <View style={styles.textFlexRow}>
             <ImageBackground
               source={
@@ -117,6 +117,9 @@ function Bookdetails(props) {
 }
 
 const styles = {
+  Padding: {
+    padding: 10
+  },
   booktitleText: {
     fontSize: 20,
     fontWeight: "bold"
